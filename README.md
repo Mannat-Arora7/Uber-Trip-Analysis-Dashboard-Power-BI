@@ -6,7 +6,7 @@ Interactive Power BI dashboard analyzing Uber trips for June 2024: bookings, boo
 
    ## Dashboard Preview
    ![Dashboard 1](https://github.com/Mannat-Arora7/Uber-Trip-Analysis-Dashboard-Power-BI/blob/main/Dashboard%201.png)
-   ![Dashboard 2](screenshot2.png)
+   ![Dashboard 2](https://github.com/Mannat-Arora7/Uber-Trip-Analysis-Dashboard-Power-BI/blob/main/Dashboard%202.png)
 
    ## Dataset
    Source: [https://github.com/Mannat-Arora7/Uber-Trip-Analysis-Dashboard-Power-BI/blob/main/Dataset.zip]
