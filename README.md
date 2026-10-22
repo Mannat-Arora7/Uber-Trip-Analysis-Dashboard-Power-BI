@@ -13,7 +13,7 @@
 
 <!-- Add a banner / hero screenshot of your Overview page here -->
 <p align="center">
-  <img src="images/overview-dashboard.png" alt="Uber Trip Analysis Dashboard – Overview" width="900"/>
+  <img src="https://github.com/Mannat-Arora7/Uber-Trip-Analysis-Dashboard-Power-BI/blob/main/Dashboard%201.png" alt="Uber Trip Analysis Dashboard – Overview" width="900"/>
 </p>
 
 ---
