@@ -32,7 +32,6 @@
 - [How to Use This Project](#-how-to-use-this-project)
 - [Repository Structure](#-repository-structure)
 - [Skills Demonstrated](#-skills-demonstrated)
-- [Future Improvements](#-future-improvements)
 - [Contact](#-contact)
 
 ---
