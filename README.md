@@ -353,7 +353,7 @@ Dynamic Measure = {
 📦 uber-power-bi-dashboard
  ┣ 📜 Uber_Power_BI_Project.pbix     # Power BI report (data model + dashboard)
  ┣ 📜 README.md                      # Project documentation
- ┣ 📂 images                         # Dashboard screenshots used in this README
+ ┣ 📂 Screenshot                        # Dashboard screenshots used in this README
  ┃ ┣ 🖼️ overview-dashboard.png
  ┃ ┣ 🖼️ time-analysis.png
  ┃ ┗ 🖼️ details-page.png
@@ -374,25 +374,13 @@ Dynamic Measure = {
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] Add **time-intelligence** measures (MoM / YoY growth) with multi-month data
-- [ ] Standardise duplicate borough labels (`Bronx` vs. `The Bronx`)
-- [ ] Add a **map visual** of pickup hotspots
-- [ ] Add **surge-fee analysis** and revenue-per-mile KPIs
-- [ ] Handle **outlier trips** (e.g. 100+ mile rides) with a data-quality flag
-- [ ] Publish to **Power BI Service** with scheduled refresh
-
----
-
 ## 📬 Contact
 
-**[Your Name]**
-Data Analyst | Power BI | SQL | Excel
+**[Mannatpreet Kaur]**
+Data Analyst | Power BI | Excel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannatpreet-kaur75/?isSelfProfile=true)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mannatarora705@gmail.com)
 
 ---
 
