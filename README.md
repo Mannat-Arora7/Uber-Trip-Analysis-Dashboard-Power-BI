@@ -147,7 +147,7 @@ erDiagram
 The executive summary page: KPI cards, payment-method split, vehicle-type matrix, and location rankings.
 
 <p align="center">
-  <img src="images/overview-dashboard.png" alt="Overview Analysis page" width="850"/>
+  <img src="https://github.com/Mannat-Arora7/Uber-Trip-Analysis-Dashboard-Power-BI/blob/main/Dashboard%201.png" alt="Overview Analysis page" width="850"/>
 </p>
 
 - KPI cards: Total Bookings, Total Booking Value, Avg. Booking Value, Total & Avg. Distance, Avg. Trip Time
@@ -161,7 +161,7 @@ The executive summary page: KPI cards, payment-method split, vehicle-type matrix
 Shows *when* demand happens.
 
 <p align="center">
-  <img src="images/time-analysis.png" alt="Time Analysis page" width="850"/>
+  <img src="https://github.com/Mannat-Arora7/Uber-Trip-Analysis-Dashboard-Power-BI/blob/main/Dashboard%202.png" alt="Time Analysis page" width="850"/>
 </p>
 
 - Bookings by **pickup time** (10-minute bins)
