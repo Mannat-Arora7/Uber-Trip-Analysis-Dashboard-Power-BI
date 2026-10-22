@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗 Uber Trip Analysis Dashboard
+# Uber Trip Analysis Dashboard
 
 ### An interactive, end-to-end Power BI report analysing 100K+ Uber trips across bookings, revenue, vehicle types, locations, and time patterns.
 
