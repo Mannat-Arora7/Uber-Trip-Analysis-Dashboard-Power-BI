@@ -174,7 +174,7 @@ Shows *when* demand happens.
 A trip-level table (Trip ID, pickup date/hour, location, vehicle, payment type, passengers, value, distance) reachable by drill-through, with a back button.
 
 <p align="center">
-  <img src="images/details-page.png" alt="Details drill-through page" width="850"/>
+  <img src="https://github.com/Mannat-Arora7/Uber-Trip-Analysis-Dashboard-Power-BI/blob/main/Dashboard%203.png" alt="Details drill-through page" width="850"/>
 </p>
 
 ---
