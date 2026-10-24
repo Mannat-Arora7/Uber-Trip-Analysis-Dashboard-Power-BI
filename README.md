@@ -374,8 +374,8 @@ Dynamic Measure = {
 
 ## 📬 Contact
 
-**[Mannatpreet Kaur]**
-Data Analyst | Power BI | Excel
+**Mannatpreet Kaur**
+Data Analyst 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannatpreet-kaur75/?isSelfProfile=true)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mannatarora705@gmail.com)
