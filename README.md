@@ -350,16 +350,19 @@ Dynamic Measure = {
 ## 📁 Repository Structure
 
 ```
+
 📦 uber-power-bi-dashboard
- ┣ 📜 Uber_Power_BI_Project.pbix     # Power BI report (data model + dashboard)
+ ┣ 📜 Uber Trip Analysis Dashboard.pbix     # Power BI report (data model + dashboard)
  ┣ 📜 README.md                      # Project documentation
  ┣ 📂 Screenshot                        # Dashboard screenshots used in this README
- ┃ ┣ 🖼️ overview-dashboard.png
- ┃ ┣ 🖼️ time-analysis.png
- ┃ ┗ 🖼️ details-page.png
- ┗ 📂 data                           # (optional) source Excel files
+ ┃ ┣ 🖼️ Dashboard 1.png
+ ┃ ┣ 🖼️ Dashboard 2.png
+ ┃ ┗ 🖼️ Dashboard 3.png
+ ┗ 📂 data                       # source Excel files
+   ┗ 📄 Dataset.zip
    ┣ 📄 Uber Trip Details.xlsx
    ┗ 📄 Location Table.xlsx
+   ┣ 📄 images                   # Images used in these 3 dashboards
 ```
 
 ---
